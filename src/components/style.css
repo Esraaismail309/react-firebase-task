@@ -1,0 +1,26 @@
+input {
+  padding: 6px 12px;
+  border: 1px solid #e1e1e1;
+  display: block;
+  margin: 20px auto;
+}
+form {
+  border: 1px solid #e1e1e1;
+  padding: 10px;
+  width: 30%;
+  margin: 20px auto;
+  text-align: center;
+}
+table {
+  margin: auto;
+  padding: 10px;
+  width: 70%;
+  border-collapse: collapse;
+}
+table,
+th,
+td {
+  border: 1px solid #ddd;
+  text-align: center;
+  padding: 10px;
+}
